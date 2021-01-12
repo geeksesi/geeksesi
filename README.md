@@ -7,8 +7,8 @@
 [![](https://img.shields.io/badge/-Youtube%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCurthvdUrUirkqHzKZmcoPA)
 [![](https://img.shields.io/badge/-Telegram-039be5?style=for-the-badge&logo=telegram)](https://t.me/geeksesi)
 
-[![](https://img.shields.io/badge/-PHP-efefef?style=for-the-badge&logo=php)](https://github.com/geeksesi?tab=repositories&q=&type=&language=php)
-[![](https://img.shields.io/badge/-Js-efefef?style=for-the-badge&logo=javascript)](https://github.com/geeksesi?tab=repositories&q=&type=&language=javascript)
+[![](https://img.shields.io/badge/-PHP-222?style=for-the-badge&logo=php&logoColor=fff)](https://github.com/geeksesi?tab=repositories&q=&type=&language=php)
+[![](https://img.shields.io/badge/-JavaScript-222?style=for-the-badge&logo=javascript&logoColor=fff)](https://github.com/geeksesi?tab=repositories&q=&type=&language=javascript)
 
 
 
